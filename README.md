@@ -17,9 +17,7 @@ Whether you're a student, an intern, or a professional looking to create persona
 - ✅ Ideal for learning frontend structure
 
 
-## 📸 Preview
-
-![Project Screenshot]([https://via.placeholder.com/600x350.png?text=Preview+Screenshot](https://github.com/tina18-thomas/id-card-html-css/blob/main/Screenshot%202025-08-02%20233104.jpg))
+# The output preview is also attached as a separate file
 
 ## 🛠️ Technologies Used
 
