@@ -1,0 +1,26 @@
+header{
+    text-align: center;
+    color:  rgba(6, 92, 190, 0.892);
+    font-size: 30px;
+}
+div{
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(233, 206, 1);
+}
+footer{
+    text-align: center;
+    color:  rgba(255, 255, 255, 0.892);
+    background-color: rgba(6, 92, 190, 0.892);
+    font-size: 30px;
+}
+body {
+    margin: 40px auto;
+    padding: 0;
+    text-align: center;
+    border: 1px solid black;
+    width: 600px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+    border-radius: 12px;
+    background: #fff;
+}
