@@ -19,7 +19,7 @@ Whether you're a student, an intern, or a professional looking to create persona
 
 ## 📸 Preview
 
-![Project Screenshot](https://via.placeholder.com/600x350.png?text=Preview+Screenshot)
+![Project Screenshot]([https://via.placeholder.com/600x350.png?text=Preview+Screenshot](https://github.com/tina18-thomas/id-card-html-css/blob/main/Screenshot%202025-08-02%20233104.jpg))
 
 ## 🛠️ Technologies Used
 
